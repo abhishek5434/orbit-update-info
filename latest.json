@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2.0.4",
-  "installerBytes": 95642489,
-  "installerSha256": "8bd4ae52baf5143141e67e851cf137abf763cc4f000a049d6e275b192faf4f02",
-  "signature": "20yChdJfkp1BvYcwZDrOqa4leVhYhyWrEAv6wb1npgS6oBHpvjXMTwCrdf7wOMnZffpmkX6dqPEFIIRat6niDw=="
+  "version": "2.0.5",
+  "installerBytes": 95642863,
+  "installerSha256": "b38648ff67e3580aeeffdb6fc18169880f0773b235551acb0e7f09534ed213bd",
+  "signature": "S3FcqTQ1u4ZitQ9Vde4AZyTyzCbXF4opE/eYK6gO4U3XqUVbBNZwOHZ6xTZP63p6T8AMDqRFtX1vIAGCXrqfCA=="
 }
