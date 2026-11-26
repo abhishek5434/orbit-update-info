@@ -1,0 +1,9 @@
+{
+  "schema": 4,
+  "platform": "darwin",
+  "arch": "arm64",
+  "version": "2.0.8",
+  "installerBytes": 118181127,
+  "installerSha256": "0d12277b462972ed2440b5fa47bb0b00c0033ec6dce6a73c26bd515e3fba54b1",
+  "signature": "7reopcfs8dQC89GGyjdAhA8UrD2R/D6Cm5r8pYJpEUeLLFgg6otVFUkj2I9zXHQCEmaWV5+JEx1HcaoPsBq6Ag=="
+}
